@@ -1,0 +1,13 @@
+May 13th 2012
+
+This was built on a 32 bit xubuntu 12.04
+
+I provide this build for convenience only, no guarantee that it works as intended.
+It does not contain the GUI, only the command line debugger.
+
+To install:
+sudo cp bin /usr/local/bin
+sudo cp  zero /usr/local
+
+
+
